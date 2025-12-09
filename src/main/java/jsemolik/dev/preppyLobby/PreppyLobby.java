@@ -36,7 +36,7 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
 
-@Plugin(id = "preppylobby", name = "PreppyLobby", version = "1.0-SNAPSHOT", description = "The main plugin of the Skippy collection, connecting all other plugins together.", url = "jsemolik.dev", authors = {"Oliver Steiner"})
+@Plugin(id = "preppylobby", name = "PreppyLobby", version = "1.0-SNAPSHOT", description = "The warping plugin of the Skippy collection, connecting all other servers together.", url = "jsemolik.dev", authors = {"Oliver Steiner"})
 public class PreppyLobby {
 
     @Inject
